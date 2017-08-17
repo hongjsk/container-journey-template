@@ -2,6 +2,8 @@
 
 # Container Journey template - 쿠버네티스(Kubernetes) 클러스터 생성하기
 
+*다른 언어로 보기: [English](README.md).*
+
 이 곳에 소개된 시나리오는 다음 작업들을 진행하기 위해 제공되었습니다:
 - Bluemix CLI와 연관된 리포지토리 설치하기
 - 쿠버네티스 API 사용을 위한 CLI 설치하기
