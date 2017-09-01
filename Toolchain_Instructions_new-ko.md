@@ -1,4 +1,4 @@
-# 툴체인 학습
+# 툴체인 지침
 
 *다른 언어로 보기: [English](Toolchain_Instructions_new.md).*
 
